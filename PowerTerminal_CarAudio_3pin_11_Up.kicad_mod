@@ -13,7 +13,7 @@
   (pad 2 thru_hole circle (at 0 0) (size 5 5) (drill 2.5) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -10.922 0) (size 5 5) (drill 2.5) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 10.922 0) (size 5 5) (drill 2.5) (layers *.Cu *.Mask F.SilkS))
-  (model D:/KICADLIB_JBD/kicad-library/modules/packages3d/Terminal_Block/PowerTerminal_CarAudio_3pin_11_Up.wrl
+  (model Terminal_Blocks/PowerTerminal_CarAudio_3pin_11_Up.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
